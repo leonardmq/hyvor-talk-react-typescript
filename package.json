@@ -1,6 +1,6 @@
 {
   "name": "hyvor-talk-react-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript React components to connect to Hyvor Talk",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
