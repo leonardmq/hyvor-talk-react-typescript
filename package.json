@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardmq/hyvor-talk-react-typescript.git"
+    "url": "git+git@github.com:leonardmq/hyvor-talk-react-typescript.git"
   },
   "keywords": [
     "hyvor",
