@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/dm/hyvor-talk-react-typescript)](https://www.npmjs.com/package/hyvor-talk-react-typescript) [![npm](https://img.shields.io/npm/v/hyvor-talk-react-typescript)](https://www.npmjs.com/package/hyvor-talk-react-typescript)
+
 # Hyvor Talk - React (TypeScript)
 
 **Same as https://github.com/HyvorTalk/hyvor-talk-react but rewritten in TypeScript and updated dependencies**
