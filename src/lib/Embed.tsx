@@ -5,8 +5,8 @@ export interface HyvorEmbedProps {
   websiteId: number;
   url?: string;
   id: any;
-  title: string;
-  loadMode: string;
+  title?: string;
+  loadMode?: string;
   language?: string;
   sso?: object;
   palette?: object;
